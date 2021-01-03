@@ -5,4 +5,5 @@ if __name__ == "__main__":
     print("i + j = " + (i + j))
     print("i - j = " + (i - j))
     print("i * j = " + (i * j))
+    print("i / j = " + (i / j))
     print("finish")
